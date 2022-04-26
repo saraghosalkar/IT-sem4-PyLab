@@ -17,13 +17,13 @@
 #print(f.read())
 #f.close()
 
-#f = open("hellohehe.txt", "w")
-#f.write("Woops! I have deleted the content!")
-#f.close()
-#try:
-    #f = open("file.txt", "x")
-#except FileExistsError :
-    #print("The file Exists")
+f = open("hellohehe.txt", "w")
+f.write("Woops! I have deleted the content!")
+f.close()
+try:
+    f = open("file.txt", "x")
+except FileExistsError :
+    print("The file Exists")
 
 #import os
 #os.remove("myfile.txt")
