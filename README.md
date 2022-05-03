@@ -3,7 +3,7 @@ Programs written in Python Lab under the guidance of Dr. Arun Kulkarni
 
 ## Syllabus : 
 1)
-Introduction, Features, Python building blocks – Identifiers, Keywords, Indention, Variables and Comments,
+Introduction, Features, Python building blocks – Identifiers, Keywords, Indentation, Variables and Comments,
 Basic data types (Numeric, Boolean, Compound) Operators: Arithmetic, comparison, relational, assignment, logical, bitwise, membership, identity operators, operator precedence, Control flow statements: Conditional statements (if, if...else, nested if) 
 Looping in Python (while loop, for loop, nested loops)
 Loop manipulation using continue, pass, break. Input/output Functions, Decorators, Iterators and Generators.
